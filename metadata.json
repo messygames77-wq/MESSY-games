@@ -1,0 +1,6 @@
+{
+  "name": "MESSY GAMES",
+  "description": "Premium ecommerce store for MESSY GAMES — chaotic, social, and competitive card games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
